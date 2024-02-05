@@ -61,7 +61,7 @@ Make sure you have the following tools installed on your machine:
 
    # Start backend server
    cd ../backend
-   npm start
+   nodemon
    ```
 2. Open your browser and navigate to http://localhost:3000.
 3. Explore the features and enjoy blogging!
